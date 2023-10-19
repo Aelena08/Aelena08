@@ -1,6 +1,6 @@
 ### Bem Vindo 🪐💫     
 
-Meu nome é Agnes ✨️
+
 
 - Estou estudando no Alura
 
