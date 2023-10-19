@@ -1,7 +1,6 @@
 ### Bem Vindo 🪐💫     
 
 
-
 - Estou estudando no Alura
 
 - Estou me desenvolvendo na linguagem HTML/CSS
